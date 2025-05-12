@@ -1,6 +1,6 @@
 # Week 5 – Data Structures
 
-Part of CS50x 2024 – Introduction to Computer Science by Harvard University
+Part of CS50x 2025 – Introduction to Computer Science by Harvard University
 
 ## Overview
 This week introduced fundamental data structures and how they are implemented in C. We explored linked lists, hash tables, trees, and how to choose the right structure for the task.
